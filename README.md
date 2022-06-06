@@ -5,7 +5,6 @@ I'm a biomedical engineer who is passionate about technology on the medical worl
 
 - 📫 How to reach me:
 <p align="center">
-	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/NicolasBrandi"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/nicolasmbrandi/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 	
