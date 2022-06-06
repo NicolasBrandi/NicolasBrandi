@@ -4,7 +4,6 @@
 I'm a biomedical engineer who is passionate about technology on the medical world and research in developing new techniques. I worked in the MRI service developing software and researching into new diagnosis imaging methods and their different potentials. Some of the technologies I work are Python, 3D-Slicer, CSS & HTML.
 
 
--->
 <!--
 **NicolasBrandi/NicolasBrandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
