@@ -3,7 +3,13 @@
 <img src="Profilepng.PNG">
 I'm a biomedical engineer who is passionate about technology on the medical world and research in developing new techniques. I worked in the MRI service developing software and researching into new diagnosis imaging methods and their different potentials. Some of the technologies I enjoy working with are Python, 3D-Slicer, CSS & HTML.
 
-
+- 📫 How to reach me:
+<p align="center">
+	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 <!--
 **NicolasBrandi/NicolasBrandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
