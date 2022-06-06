@@ -1,7 +1,8 @@
 # Hi, I'm Nicolas
 
-<img src="Profilepng.PNG" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a 
+<img src="Profilepng.PNG">
+I'm a biomedical engineer who is passionate about technology on the medical world and research in developing new techniques. I worked in the MRI service developing software and researching into new diagnosis imaging methods and their different potentials. Some of the technologies I work are Python, 3D-Slicer, CSS & HTML.
+
 
 -->
 <!--
