@@ -1,7 +1,9 @@
 # Hi, I'm Nicolas :wave: :computer:
 
 <img src="Profilepng.PNG">
-I'm a biomedical engineer who is passionate about technology on the medical world and research in developing new techniques. I worked in the MRI service developing software and researching into new diagnosis imaging methods and their different potentials. Some of the technologies I enjoy working with are Python, 3D-Slicer, CSS & HTML.
+I'm a biomedical engineer who is passionate about technology in the medical world and research in developing new techniques. I worked in the MRI service developing software and researching into new diagnosis imaging methods and their numerous potentials. 
+
+Another interest of mine is web development specifically designing websites and applications for the medical field and services. Some of the technologies I enjoy working with are Python, 3D-Slicer, JS, CSS & HTML.
 
 
 	
