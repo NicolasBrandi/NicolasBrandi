@@ -1,7 +1,7 @@
 # Hi, I'm Nicolas :wave: :computer:
 
 <img src="Profilepng.PNG">
-I'm a biomedical engineer who is passionate about technology on the medical world and research in developing new techniques. I worked in the MRI service developing software and researching into new diagnosis imaging methods and their different potentials. Some of the technologies I enjoy working with are Python, 3D-Slicer, CSS & HTML.
+From biotech to bytecode, I've transformed my passion for biomedical engineering into a software engineering adventure! Fluent in Golang, Python, and JavaScript, I thrive in backend development, database design, and CI/CD. With a knack for cloud platforms like AWS, Google Cloud and Azure, I'm on a mission to deliver top-notch software solutions. Let's code, collaborate, and create something amazing together!
 
 
 	
