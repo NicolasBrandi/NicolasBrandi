@@ -1,3 +1,5 @@
+<!--
+
 # Hi, I'm Nicolas :wave: :computer:
 
 <img src="Profilepng.PNG">
@@ -5,7 +7,7 @@ From biotech to bytecode, I've transformed my passion for biomedical engineering
 
 
 	
-<!--
+
 **NicolasBrandi/NicolasBrandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
